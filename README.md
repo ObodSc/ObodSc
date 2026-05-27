@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ObodSc/ObodSc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02150d,50:064e3b,100:00ff88&height=220&section=header&text=ObodSc&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20in%20Silence%20Build%20with%20Logic&descSize=18&descAlignY=58" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<div align="center">
+
+# 𓆩 ObodSc 𓆪
+
+### `dark mode thinker • clean logic builder • silent coder`
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+ideas+with+logic.;Writing+code+with+focus.;Creating+systems+in+silence." />
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+## SYSTEM IDENTITY
+
+</div>
+
+```txt
+Name      : ObodSc
+Mode      : Dark Green
+Focus     : Logic, Structure, System
+Status    : Building quietly
