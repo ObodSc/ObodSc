@@ -10,8 +10,6 @@
 
 # 𓆩 ObodSc 𓆪
 
-### `dark mode thinker • clean logic builder • silent coder`
-
 </div>
 
 <br>
@@ -33,9 +31,3 @@
 ## SYSTEM IDENTITY
 
 </div>
-
-```txt
-Name      : ObodSc
-Mode      : Dark Green
-Focus     : Logic, Structure, System
-Status    : Building quietly
