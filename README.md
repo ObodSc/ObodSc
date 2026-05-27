@@ -8,8 +8,6 @@
 
 <div align="center">
 
-# 𓆩 ObodSc 𓆪
-
 </div>
 
 <br>
@@ -20,14 +18,3 @@
 
 </div>
 
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-## SYSTEM IDENTITY
-
-</div>
